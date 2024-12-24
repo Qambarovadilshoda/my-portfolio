@@ -56,7 +56,7 @@ portfolio/
    - Replace the text `Dilshoda` in the `<h1 class="logo">` tag with your desired logo or name.
 
 2. **Profile Picture**:
-   - Replace `profile.jpg` in the `about` section with your own image. Ensure the file is located in the same directory or update the path.
+   - Replace `about` section with your own image. Ensure the file is located in the same directory or update the path.
 
 3. **Contact Information**:
    - Update the contact details in the `#contact` section with your own name, email, and phone number.
