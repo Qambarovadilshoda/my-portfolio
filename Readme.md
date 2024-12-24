@@ -36,7 +36,7 @@ To run this project locally:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd portfolio
+   cd my-portfolio
    ```
 3. Open the `index.html` file in your browser to view the site.
 
