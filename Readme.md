@@ -32,7 +32,7 @@ To run this project locally:
 
 1. Clone the repository or download the files:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Qambarovadilshoda/my-portfolio.git
    ```
 2. Navigate to the project folder:
    ```bash
