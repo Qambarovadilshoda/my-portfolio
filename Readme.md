@@ -52,19 +52,16 @@ portfolio/
 
 ## Customization
 
-1. **Logo**:
-   - Replace the text `Dilshoda` in the `<h1 class="logo">` tag with your desired logo or name.
-
-2. **Profile Picture**:
+1. **Profile Picture**:
    - Replace `about` section with your own image. Ensure the file is located in the same directory or update the path.
 
-3. **Contact Information**:
+2. **Contact Information**:
    - Update the contact details in the `#contact` section with your own name, email, and phone number.
 
-4. **Services**:
+3. **Services**:
    - Modify the text in the `#services` section to reflect your actual offerings. FontAwesome icons can be updated using [FontAwesome's library](https://fontawesome.com/icons).
 
-5. **Styling**:
+4. **Styling**:
    - Edit `style.css` to customize the colors, fonts, or layout.
 
 ## License
